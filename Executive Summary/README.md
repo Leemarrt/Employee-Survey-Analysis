@@ -69,8 +69,7 @@ Excel
 
 ### Key Insight
 **High participation = High trust in feedback process**
-
-*[Employee-Survey-Analysis/Visuals/response rates by department]*
+[https://github.com/Leemarrt/Employee-Survey-Analysis/Visuals/response_rates_by_department]
 
 
 #  Engagement Drivers - What's Working
@@ -103,8 +102,7 @@ Excel
 ### Critical Finding
 **Sheriff's Department** appears in bottom 3 for 7 out of 10 metrics
 
-*[Employee-Survey-Analysis/Visuals/heat map visualization]*
-
+[[https://github.com/Leemarrt/Employee-Survey-Analysis/Visuals/heat_map_visualization]
 
 
 ## **Top Performing Departments**
